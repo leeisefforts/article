@@ -68,7 +68,7 @@ ITEM_PIPELINES = {
     'article.pipelines.MysqlTwistedPipline': 3,
     # 'article.pipelines.JsonExporterPipline': 2,
     #'scrapy.pipelines.images.ImagesPipeline': 1
-    # 'article.pipelines.ArticleImagePipeline': 1
+    'article.pipelines.ArticleImagePipeline': 1
 }
 
 IMAGES_URLS_FIELD = "front_image_url"

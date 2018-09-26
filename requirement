@@ -1,4 +1,7 @@
 scrapy
 pypiwin32
 pillow
-pymysqlpip
+pymysql
+pip
+selenium
+PyExecJS
