@@ -5,3 +5,5 @@ pymysql
 pip
 selenium
 PyExecJS
+sklearn
+scipy
